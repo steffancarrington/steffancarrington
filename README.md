@@ -40,21 +40,7 @@ When I’m away from my screen, you’ll find me at the gym 🏋️, camping �
 
 ### 💻 Get in touch
 
-<style>
-  #badges a {
-    text-decoration: none;
-  }
-</style>
-
 <div id="badges">
-  <a href="https://www.linkedin.com/in/steffancarrington/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/steffancarrington/" target="_blank">
-    <img src="https://img.shields.io/badge/-@steffcarrington-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Steffan Carrington on LinkedIn">
-  </a>
-
   <a href="https://www.instagram.com/steffcarrington" target="_blank">
     <img src="https://img.shields.io/badge/-@steffcarrington-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Steffan Carrington on Instagram">
   </a>
