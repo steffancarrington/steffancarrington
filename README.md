@@ -41,12 +41,12 @@ When I’m away from my screen, you’ll find me at the gym 🏋️, camping �
 ### 💻 Get in touch
 
 <div id="badges">
-  <a href="https://www.instagram.com/steffcarrington" target="_blank">
-    <img src="https://img.shields.io/badge/-@steffcarrington-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Steffan Carrington on Instagram">
+  <a style="text-decoration: none;" href="https://www.instagram.com/steffcarrington" target="_blank">
+    <img style="text-decoration: none;" src="https://img.shields.io/badge/-@steffcarrington-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Steffan Carrington on Instagram">
   </a>
 
-  <a href="https://x.com/steffcarrington" target="_blank">
-    <img src="https://img.shields.io/badge/-@steffcarrington-000000?style=for-the-badge&logo=x&logoColor=white" alt="Steffan Carrington on X">
+  <a style="text-decoration: none;" href="https://x.com/steffcarrington" target="_blank">
+    <img style="text-decoration: none;" src="https://img.shields.io/badge/-@steffcarrington-000000?style=for-the-badge&logo=x&logoColor=white" alt="Steffan Carrington on X">
   </a>
 </div>
 
