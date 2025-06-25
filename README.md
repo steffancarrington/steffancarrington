@@ -50,7 +50,7 @@ When I’m away from my screen, you’ll find me at the gym 🏋️, camping �
 </a>
 
 
-  <a href="https://www.instagram.com/steffcarrington" target="_blank">
+  <a href="https://www.instagram.com/steffcarrington" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-@steffcarrington-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Steffan Carrington on Instagram">
   </a>
 
