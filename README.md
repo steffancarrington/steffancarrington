@@ -1,8 +1,8 @@
 # Hi, I'm Steffan 👋
 
-I’m a senior front-end developer with experience in delivering user-centric, accessible solutions through building clean, scalable and code. With a background spanning Travel, Sports, and eCommerce, I bring adaptable thinking and unique insights to a wide range of projects.
+I’m a senior front-end developer with experience in delivering user-centric, accessible solutions through the use of clean, scalable and code. With a background spanning Travel, Sports, and eCommerce, I bring adaptable thinking and unique insights to a wide range of projects in both agency and SaaS environments.
 
-My expertise lies in the JavaScript ecosystem, working extensively with frameworks like React, Next.js, React Query, and Redux.
+My expertise lies in the JavaScript ecosystem, working extensively with frameworks like React, Next.js, React Query, and Redux, whilst utilising modern CSS for crafting responsive UIs.
 
 Committed to continuous learning, I actively refine my skills and embrace new challenges—confidently exploring unfamiliar technologies to expand my capabilities and enhance the solutions I deliver. I’m currently deepening my knowledge of Node.js, AI, and Full Stack Development.
 
