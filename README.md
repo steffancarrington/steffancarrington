@@ -1,6 +1,6 @@
 # Hi, I'm Steffan 👋
 
-### About Me :
+### :man: About Me
 
 I’m a senior front-end developer with experience in delivering user-centric, accessible solutions through building clean, scalable and code. With a background spanning Travel, Sports, and eCommerce, I bring adaptable thinking and unique insights to a wide range of projects.
 
@@ -12,7 +12,7 @@ When I’m away from my screen, you’ll find me at the gym 🏋️, camping �
 
 <br>
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
 
 <div>
   <img style="margin-right: 5px;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
