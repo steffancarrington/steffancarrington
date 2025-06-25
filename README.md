@@ -41,11 +41,10 @@ When I’m away from my screen, you’ll find me at the gym 🏋️, camping �
 ### 💻 Get in touch
 
 <div id="badges">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-steffcarrington-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steffcarrington)
-
   <a href="https://www.linkedin.com/in/steffancarrington/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-steffcarrington-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
