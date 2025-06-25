@@ -4,8 +4,13 @@
 
 ### About Me :
 
-I’m a senior front-end develop with experience building scalable, modular applications. I focus on delivering user-centric, accessible solutions through maintainable code. 
+I’m a senior front-end developer with experience building scalable, modular applications. I focus on delivering user-centric, accessible solutions through clean, maintainable code. With a background spanning Travel, Sports, and eCommerce, I bring adaptable thinking and unique insights to a wide range of projects.
 
+My expertise lies in the JavaScript ecosystem, working extensively with frameworks like React, Next.js, React Query, and Redux.
+
+Committed to continuous learning, I actively refine my skills and embrace new challenges—confidently exploring unfamiliar technologies to expand my capabilities and enhance the solutions I deliver. I’m currently deepening my knowledge of Node.js, AI, and Full Stack Development.
+
+When I’m away from my screen, you’ll find me at the gym 🏋️, camping 🏕️, or out on a hike ⛰️ with Axel, my big black Czech Shepherd 🐺.
 
 ---
 
@@ -31,4 +36,10 @@ I’m a senior front-end develop with experience building scalable, modular appl
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+
+
+---
+
+### 💻 Get in touch
+
 
