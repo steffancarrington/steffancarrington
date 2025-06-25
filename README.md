@@ -1,7 +1,5 @@
 # Hi, I'm Steffan 👋
 
------
-
 ### About Me :
 
 I’m a senior front-end developer with experience in delivering user-centric, accessible solutions through building clean, scalable and code. With a background spanning Travel, Sports, and eCommerce, I bring adaptable thinking and unique insights to a wide range of projects.
