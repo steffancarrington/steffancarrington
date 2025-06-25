@@ -1,8 +1,13 @@
-<div>
-  <h1>Hi, I'm Steffan 👋</h1>
-  <p>I’m a senior front-end develop with experience building scalable, modular applications. I focus on delivering user-centric, accessible solutions through maintainable code. </p>
-</div>
+# Hi, I'm Steffan 👋
 
+---
+
+### About Me :
+
+I’m a senior front-end develop with experience building scalable, modular applications. I focus on delivering user-centric, accessible solutions through maintainable code. 
+
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
