@@ -48,8 +48,7 @@ When I’m away from my screen, you’ll find me at the gym 🏋️, camping �
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://x.com/steffcarrington">
-    <img src="[![X (formerly Twitter)](https://img.shields.io/badge/X-@steffcarrington-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/steffcarrington)
-" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/X-@steffcarrington-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
