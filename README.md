@@ -50,9 +50,7 @@ When I’m away from my screen, you’ll find me at the gym 🏋️, camping �
   </a>
 
   <a href="https://x.com/steffcarrington">
-    ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fsteffan.codes&style=for-the-badge&logo=x&logoColor=%23ffffff&logoSize=40&labelColor=%23000000)
-
-    <img src="https://img.shields.io/badge/X-@steffcarrington-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+    <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fsteffcarrington&style=for-the-badge&logo=x&logoColor=%23ffffff&label=%40steffcarrington&labelColor=%23000000&color=%23000000" alt="Steffan Carrington on X">
   </a>
 </div>
 
