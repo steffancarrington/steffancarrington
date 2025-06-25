@@ -49,8 +49,14 @@ When I’m away from my screen, you’ll find me at the gym 🏋️, camping �
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 
+  <a href="https://x.com/steffcarrington" target="_blank">
+  <img src="https://img.shields.io/badge/X-@steffcarrington-000000?style=for-the-badge&logo=x&logoColor=white" alt="Steffan Carrington on X">
+</a>
+
+
   <a href="https://x.com/steffcarrington">
     <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fsteffcarrington&style=for-the-badge&logo=x&logoColor=%23ffffff&label=%40steffcarrington&labelColor=%23000000&color=%23000000" alt="Steffan Carrington on X">
+    
   </a>
 </div>
 
