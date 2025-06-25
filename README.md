@@ -12,8 +12,6 @@ When I’m away from my screen, you’ll find me at the gym 🏋️, camping �
 
 <br><br>
 
-<div style="margin-top: 30px;"></div>
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -37,8 +35,6 @@ When I’m away from my screen, you’ll find me at the gym 🏋️, camping �
 </div>
 
 <br><br>
-
-<div style="margin-top: 30px;"></div>
 
 ### 💻 Get in touch
 
