@@ -10,6 +10,8 @@ Committed to continuous learning, I actively refine my skills and embrace new ch
 
 When I’m away from my screen, you’ll find me at the gym 🏋️, camping 🏕️, or out on a hike ⛰️ with our dog Axel 🐺.
 
+<br><br>
+
 <div style="margin-top: 30px;"></div>
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -33,6 +35,8 @@ When I’m away from my screen, you’ll find me at the gym 🏋️, camping �
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
+
+<br><br>
 
 <div style="margin-top: 30px;"></div>
 
