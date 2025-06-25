@@ -10,7 +10,7 @@ My expertise lies in the JavaScript ecosystem, working extensively with framewor
 
 Committed to continuous learning, I actively refine my skills and embrace new challenges—confidently exploring unfamiliar technologies to expand my capabilities and enhance the solutions I deliver. I’m currently deepening my knowledge of Node.js, AI, and Full Stack Development.
 
-When I’m away from my screen, you’ll find me at the gym 🏋️, camping 🏕️, or out on a hike ⛰️ with Axel, my big black Czech Shepherd 🐺.
+When I’m away from my screen, you’ll find me at the gym 🏋️, camping 🏕️, or out on a hike ⛰️ with our dog Axel 🐺.
 
 ---
 
