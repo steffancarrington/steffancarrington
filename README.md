@@ -4,7 +4,7 @@
 
 ### About Me :
 
-I’m a senior front-end developer with experience building scalable, modular applications. I focus on delivering user-centric, accessible solutions through clean, maintainable code. With a background spanning Travel, Sports, and eCommerce, I bring adaptable thinking and unique insights to a wide range of projects.
+I’m a senior front-end developer with experience in delivering user-centric, accessible solutions through building clean, scalable and code. With a background spanning Travel, Sports, and eCommerce, I bring adaptable thinking and unique insights to a wide range of projects.
 
 My expertise lies in the JavaScript ecosystem, working extensively with frameworks like React, Next.js, React Query, and Redux.
 
