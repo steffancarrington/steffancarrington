@@ -50,8 +50,13 @@ When I’m away from my screen, you’ll find me at the gym 🏋️, camping �
   </a>
 
   <a href="https://x.com/steffcarrington" target="_blank">
-  <img src="https://img.shields.io/badge/X-@steffcarrington-000000?style=for-the-badge&logoColor=white" alt="Steffan Carrington on X">
+  <img src="https://img.shields.io/badge/X-@steffcarrington-000000?style=for-the-badge&logo=x&logoColor=white" alt="Steffan Carrington on X">
 </a>
+
+<a href="https://x.com/steffcarrington" target="_blank">
+  <img src="https://img.shields.io/badge/-@steffcarrington-000000?style=for-the-badge&logo=x&logoColor=white" alt="Steffan Carrington on X">
+</a>
+
 
 
   <a href="https://x.com/steffcarrington">
@@ -59,5 +64,3 @@ When I’m away from my screen, you’ll find me at the gym 🏋️, camping �
     
   </a>
 </div>
-
-
