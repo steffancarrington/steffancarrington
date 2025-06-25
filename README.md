@@ -42,7 +42,7 @@ When I’m away from my screen, you’ll find me at the gym 🏋️, camping �
 
 <div id="badges">
  <a href="https://www.linkedin.com/in/steffancarrington/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
   
   <a href="your-youtube-URL">
